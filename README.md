@@ -34,14 +34,21 @@ The Room Monitoring System is done with the amalgama5on of IoT and AJAX. A Room 
 
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/e4db149e-bd3f-48a3-bc26-2659aa107589">
 
+
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/e0c5435c-1fbd-4b63-bea0-398be9c31439">
+
 
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/2d5834f1-63f9-4a0a-aae8-2fd0265cba3b">
 
+
 <img width="185" alt="image" src="https://github.com/user-attachments/assets/a0f806c3-3428-4211-bc32-4a20192187c4">
+
 
 <img width="184" alt="image" src="https://github.com/user-attachments/assets/482ba0d7-da81-4e57-b16d-b8607a7e461f">
 
+
 <img width="193" alt="image" src="https://github.com/user-attachments/assets/30e95249-cbb1-4728-a67a-367912e7ece6">
 
+
 <img width="195" alt="image" src="https://github.com/user-attachments/assets/f26d504d-f4c4-4d3c-b59c-e4d4830e7bdc">
+
