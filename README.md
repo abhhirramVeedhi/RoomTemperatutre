@@ -7,22 +7,30 @@ The Room Monitoring System is done with the amalgama5on of IoT and AJAX. A Room 
 # Implementation
 
 • Connect Node MCU AND DHT 11 sensor on the breadboard using wires.
+
 • ‘+’ pin of DHT 11 sensor should be connected to VIN pin of the Node MCU
-• ‘-’ pin of DHT 11 sensor should be connected to GND pin of the Node
-MCU
-• ‘out’ pin of DHT 11 sensor should be connected to D1 pin of the Node
-MCU
-• Connect the Node MCU to the PC with the help of USB.
+
+• ‘-’ pin of DHT 11 sensor should be connected to GND pin of the Node MCU
+
+• ‘out’ pin of DHT 11 sensor should be connected to D1 pin of the Node MCU
+
+• Connect the Node MCU to the PC with the help of USB. 
+
 • Install necessary drivers and libraries from Arduino IDE.
+
 • Put the respec5ve Wi-Fi name and password in the code.
+
 • Select appropriate ports and verify, and upload the code.
+
 • Open Serial Monitor aTer uploading the code.
-• Enter the IP address of the Node MCU which we got from Serial Monitor,
-in any browser of the mobile which provided the Hotspot.
-• ATer entering the IP address in the browser, we’ll be able to see the
-temperature and humidity in the room.
-• As we have used AJAX, the temperature and humidity gets changed
-dynamically depending on the surroundings.
+
+• Enter the IP address of the Node MCU which we got from Serial Monitor,in any browser of the mobile which provided the Hotspot.
+
+• ATer entering the IP address in the browser, we’ll be able to see the temperature and humidity in the room.
+
+• As we have used AJAX, the temperature and humidity gets changed dynamically depending on the surroundings.
+
+# Images
 
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/e4db149e-bd3f-48a3-bc26-2659aa107589">
 
