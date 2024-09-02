@@ -23,3 +23,5 @@ in any browser of the mobile which provided the Hotspot.
 temperature and humidity in the room.
 • As we have used AJAX, the temperature and humidity gets changed
 dynamically depending on the surroundings.
+
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/e4db149e-bd3f-48a3-bc26-2659aa107589">
